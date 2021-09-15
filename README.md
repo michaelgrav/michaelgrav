@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello! :)
 
 - :school_satchel: Im currently working on getting my bachelors at UT Dallas
 - 🌱 I’m currently learning Python, advanced Java, and computer hardware!
