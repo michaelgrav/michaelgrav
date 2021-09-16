@@ -1,6 +1,6 @@
 ### Hello! :)
 
-I am undergraduate student currently pursuing my Bachelor's of Science in Computer Science from UT Dallas. I've been interested in Computer Science and Cyber Security since I was 12, and Computers always fascinated me and I had to know how they worked. This curiosity blossomed into a serious interest and career opportunity for me.
+I am undergraduate student currently pursuing my Bachelor's of Science in Computer Science from UT Dallas. I've been interested in Computer Science and Cyber Security since I was 12, and frequently work on projects out of school for fun. Here's a collection of some of my projects...
 
 - 🌱 I’m currently learning Python, advanced Java, and computer hardware!
 - 📫 How to reach me: 
