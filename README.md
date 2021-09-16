@@ -7,4 +7,4 @@ I am undergraduate student currently pursuing my Bachelor's of Science in Comput
   - mdgrav@protonmail.com
   - michael.graves@utdallas.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play euphonium and trombone!
+- ⚡ Fun fact: I play euphonium, trombone, and trumpet!
