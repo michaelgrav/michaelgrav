@@ -35,9 +35,9 @@ I am undergraduate student currently pursuing my Bachelor's of Science in Comput
 **My Stats! 📈**
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsx00&hide=javascript,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsx00&hide=javascript,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsx00&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsx00&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <footer>Made with ❤️ by Michael Graves</footer>
