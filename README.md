@@ -2,7 +2,7 @@
 
 I am undergraduate student currently pursuing my Bachelor's of Science in Computer Science from UT Dallas. I've been interested in Computer Science and Software Development since I was 12, and frequently work on projects out of school for fun. I'm an aspiring Software Engineer crazy passionate about software. Here's a collection of some of my projects and details about me...
 
-- 📖 I’m currently learning C++, advanced Java, and computer hardware!
+- 📖 I’m currently learning C++
 - 📫 How to reach me: 
   - mdgrav@protonmail.com
   - michael.graves@utdallas.edu
