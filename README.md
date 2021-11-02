@@ -17,7 +17,7 @@ I am undergraduate student currently pursuing my Bachelor's of Science in Comput
 **My Experience 🖥** 
 <br>
 
-| Children's Health | Period of work (10/2021 - Present) |
+| Children's Health | Period of work (10/2021 - 10/2021) |
 |:---------:|:----------------------------------:|
 | Software Engineer Intern |Participated as a member of the Children’s Health Care Delivery Innovation Lab to transform how children receive health care with creative and innovate games and software. |
 
