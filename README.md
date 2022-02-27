@@ -14,14 +14,6 @@ I am undergraduate student currently pursuing my Bachelor's of Science in Comput
 
 ---
 
-**My Experience 🖥** 
-<br>
-
-| Children's Health | Period of work (10/2021 - 10/2021) |
-|:---------:|:----------------------------------:|
-| Software Engineer Intern |Participated as a member of the Children’s Health Care Delivery Innovation Lab to transform how children receive health care with creative and innovate games and software. |
-
----
 **My Toolbox** 🧰 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
