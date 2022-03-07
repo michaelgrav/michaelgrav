@@ -26,7 +26,7 @@ I am undergraduate student currently pursuing my Bachelor's of Science in Comput
 **My Stats! 📈**
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsx00&hide=javascript,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsx00&hide=javascript,python,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
