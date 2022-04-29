@@ -4,7 +4,7 @@ I am undergraduate student currently pursuing my Bachelor's of Science in Comput
 
 - 📖 I’m currently learning C++ and VR game development
 - 📫 How to reach me: 
-  - mdgrav@protonmail.com
+  - mgrav621@gmail.com
   - michael.graves@utdallas.edu
 - 📣 Social Media:
   - [LinkedIn](https://www.linkedin.com/in/michaelgrav/)
