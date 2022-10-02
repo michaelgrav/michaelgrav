@@ -10,7 +10,7 @@ I am undergraduate student currently pursuing my Bachelor's of Science in Comput
   - [LinkedIn](https://www.linkedin.com/in/michaelgrav/)
 - 😄 Pronouns: He/Him
 - 🎼 Fun fact: I play euphonium, trombone, and trumpet!
-- 💻 My Website: https://hackmichael.me/
+- 💻 My Website: https://michaelgrav.github.io/
 
 ---
 
