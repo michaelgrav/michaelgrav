@@ -4,7 +4,7 @@ I am undergraduate student currently pursuing my Bachelor's of Science in Comput
 
 - 📖 I’m currently learning Spring Boot and Software Development
 - 📫 How to reach me: 
-  - mgrav621@gmail.com
+  - michaeldgrav@gmail.com
   - michael.graves@utdallas.edu
 - 📣 Social Media:
   - [LinkedIn](https://www.linkedin.com/in/michaelgrav/)
