@@ -1,8 +1,8 @@
 ### Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Michael Graves
 
-I am undergraduate student currently pursuing my Bachelor's of Science in Computer Science from UT Dallas. I've been interested in Computer Science and Software Development since I was super young, and frequently work on projects out of school for fun. I'm an aspiring Software Engineer crazy passionate about all things digital. Here's a collection of some of my projects and details about me...
+I am undergraduate student currently pursuing my Bachelor's of Science in Computer Science from UT Dallas. I have experiernce with Java, Python, AWS, and many more services and software. I'm currently a Cloud Software Engineer at the UT Dallas Office of IT, and will be joining Toyota over the summer for a Software Engineering internship for Big Data...
 
-- 📖 I’m currently learning Spring Boot and Software Development
+- 📖 I’m currently learning Spring Boot and Software Development Practices
 - 📫 How to reach me: 
   - michaeldgrav@gmail.com
   - michael.graves@utdallas.edu
