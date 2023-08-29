@@ -1,6 +1,6 @@
 ### Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Michael Graves
 
-I am an undergraduate student currently pursuing my Bachelor and Masters of Science in Computer Science from UT Dallas. I have experience with Java, Python, AWS, and many more services and software. I'm currently a Software Engineer at Toyota Connected...
+I am an undergraduate student currently pursuing my Bachelor and Masters of Science in Computer Science from UT Dallas. I have experience with Java, Python, AWS, and many more services and software. I'm currently a Software Engineer Student Assistant at UT Dallas' Office of IT...
 
 - 📖 I’m currently learning Spring Boot and Software Development Practices
 - 📫 How to reach me: 
