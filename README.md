@@ -27,8 +27,3 @@ I am an undergraduate student currently pursuing my Bachelor and Masters of Scie
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgrav&hide=javascript,python,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelgrav&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<footer>Made with ❤️ by Michael Graves</footer>
