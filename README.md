@@ -2,7 +2,6 @@
 
 I am an undergraduate student currently pursuing my Bachelor and Masters of Science in Computer Science from UT Dallas. I have experience with Java, Python, AWS, and many more services and software. I'm currently a Software Engineer Student Assistant at UT Dallas' Office of IT...
 
-- 📖 I’m currently learning Spring Boot and Software Development Practices
 - 📫 How to reach me: 
   - michaeldgrav@gmail.com
   - michael.graves@utdallas.edu
@@ -10,7 +9,6 @@ I am an undergraduate student currently pursuing my Bachelor and Masters of Scie
   - [LinkedIn](https://www.linkedin.com/in/michaelgrav/)
 - 😄 Pronouns: He/Him
 - 🎼 Fun fact: I play euphonium, trombone, and trumpet!
-- 💻 My Website: https://michaelgrav.github.io/
 
 ---
 
