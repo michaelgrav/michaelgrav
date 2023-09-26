@@ -1,6 +1,6 @@
 ### Hey! I'm Michael!
 
-I am a graduate and undergraduate student in the fast-track program at UT Dallas. I'm currently pursuing my Bachelor and Masters of Science in Computer Science, and I love solving complex problems. I have experience with Java, Python, AWS, and many other services and software. Take a look at some of my pinned projects below too!
+I am a graduate and undergraduate student in the fast-track program at UT Dallas. I'm currently pursuing my Bachelor and Masters of Science in Computer Science, and I love solving complex problems. I have experience with Java, Python, AWS, and many other services and software. Take a look at some of my pinned projects below!
 
 ---
 Some quick info about me!
