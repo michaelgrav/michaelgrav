@@ -4,9 +4,6 @@ I am a graduate and undergraduate student in the fast-track program at UT Dallas
 
 ---
 Some quick info about me!
-- 📫 How to reach me: 
-  - michaeldgrav@gmail.com
-  - michael.graves@utdallas.edu
 - 📣 Social Media:
   - [LinkedIn](https://www.linkedin.com/in/michaelgrav/)
 - 😄 Pronouns: He/Him
