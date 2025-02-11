@@ -1,6 +1,6 @@
 ### Hey! I'm Michael!
 
-I am a graduate student at UT Dallas. I'm currently pursuing my Masters of Science in Computer Science, and I love solving complex problems. I have experience with Java, Python, AWS, and many other services and software. Take a look at some of my pinned projects below!
+I am a graduate student at UT Dallas. I'm currently pursuing my Master of Science in Computer Science, and I love solving complex problems. I have experience with Java, Python, AWS, and many other services and software. Take a look at some of my pinned projects below!
 
 ---
 Some quick info about me!
