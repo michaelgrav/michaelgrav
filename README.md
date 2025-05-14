@@ -1,6 +1,12 @@
 ### Hey! I'm Michael!
 
-I am a graduate student at UT Dallas. I'm currently pursuing my Master of Science in Computer Science, and I love solving complex problems. I have experience with Java, Python, AWS, and many other services and software. Take a look at some of my pinned projects below!
+Hey there! My name is Michael Graves...
+
+I have experience working on both the frontend and backend of the development stack. I've contributed to numerous projects using Java, Python, and JavaScript, along with extensive libraries and frameworks such as Boto3, NestJS, and React. I have experience designing APIs with GraphQL and building user interfaces with ReactJS. I enjoy solving complex problems and tackling the challenges that come with processing large volumes of data.
+
+Academically, I’ve completed both my bachelor’s and master’s degrees in Computer Science at The University of Texas at Dallas. 
+
+Take a look at some of my pinned projects below!
 
 ---
 Some quick info about me!
